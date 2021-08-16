@@ -1,0 +1,16 @@
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\bin\Debug\net5.0\Lesson6-14-08-2021.exe
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\bin\Debug\net5.0\Lesson6-14-08-2021.deps.json
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\bin\Debug\net5.0\Lesson6-14-08-2021.runtimeconfig.json
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\bin\Debug\net5.0\Lesson6-14-08-2021.runtimeconfig.dev.json
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\bin\Debug\net5.0\Lesson6-14-08-2021.dll
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\bin\Debug\net5.0\ref\Lesson6-14-08-2021.dll
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\bin\Debug\net5.0\Lesson6-14-08-2021.pdb
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\Lesson6-14-08-2021.csprojAssemblyReference.cache
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\Lesson6-14-08-2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\Lesson6-14-08-2021.AssemblyInfoInputs.cache
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\Lesson6-14-08-2021.AssemblyInfo.cs
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\Lesson6-14-08-2021.csproj.CoreCompileInputs.cache
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\Lesson6-14-08-2021.dll
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\ref\Lesson6-14-08-2021.dll
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\Lesson6-14-08-2021.pdb
+C:\Kavrakov Shavqat\C#\Lesson6-14-08-2021\obj\Debug\net5.0\Lesson6-14-08-2021.genruntimeconfig.cache
